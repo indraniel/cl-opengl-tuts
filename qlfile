@@ -1,0 +1,5 @@
+ql cl-glfw3
+ql cl-opengl
+ql alexandria
+ql trivial-main-thread
+git cl-nextstep https://github.com/byulparan/cl-nextstep.git
